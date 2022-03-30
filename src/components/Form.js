@@ -27,6 +27,9 @@ const Form = () => {
 		} else if (!e.target.checked) {
 			skillsAdd.splice(skillsAdd.indexOf(e.target.value), 1);
 		}
+
+		console.log(skillsAdd)
+		// setDataToAdd({...dataToAdd, skills: skillsAdd.toString()});
 	}
 
 	return (
