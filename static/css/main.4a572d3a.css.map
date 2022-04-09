@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.4a572d3a.css","mappings":"AAAA,QAIC,iBAAkB,CADlB,YAAa,CAFb,qBAAsB,CACtB,WAGD","sources":["app/App.css"],"sourcesContent":[".avatar {\r\n\tvertical-align: middle;\r\n\twidth: 100px;\r\n\theight: 100px;\r\n\tborder-radius: 50%;\r\n}"],"names":[],"sourceRoot":""}
